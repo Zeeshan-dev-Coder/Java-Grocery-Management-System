@@ -70,6 +70,3 @@ Advanced search & filter functionality.
 
 👨‍💻 Created By Mohd Zeeshan
 
-👨‍💻 Author
-
-Zeeshan (@Zeeshan-dev-Coder)
